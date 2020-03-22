@@ -4,3 +4,6 @@ microblog/app/__pycache__/__init__.cpython-37.pyc
 microblog/app/__pycache__/routes.cpython-37.pyc
 microblog/app/__pycache__/forms.cpython-37.pyc
 microblog/app/__pycache__/models.cpython-37.pyc
+microblog/migrations/versions/__pycache__/3a090902413c_.cpython-37.pyc
+microblog/migrations/versions/__pycache__/a19d9334bb80_posts_table.cpython-37.pyc
+microblog/migrations/__pycache__/env.cpython-37.pyc
