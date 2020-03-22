@@ -10,3 +10,4 @@ microblog/migrations/__pycache__/env.cpython-37.pyc
 microblog/__pycache__/microblog.cpython-37.pyc
 microblog/app/__pycache__/__init__.cpython-37.pyc
 microblog/app/__pycache__/routes.cpython-37.pyc
+*.pyc
